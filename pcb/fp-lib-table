@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "DRV8316CR")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8316CR/DRV8316CR.pretty")(options "")(descr ""))
+  (lib (name "STM32G431x6")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32G431x6/STM32G431x6.pretty")(options "")(descr ""))
 )
